@@ -1,0 +1,50 @@
+#papa2 {
+    border-style: solid;
+    border-color: #FFFFFF;
+    margin: 15%;
+    padding: 12px;
+}
+h4 {
+	font-family: 'Monoton', cursive;
+	font-size: 60px;
+	color: #FFFFFF;
+	text-align: center;
+	
+}
+#product{
+	font-family: 'Oswald', sans-serif;
+	font-size:40px ;
+	color: #FFFFFF;
+	text-align: center;
+	margin-right: 30ox;
+	margin-left: 30px;
+}
+#price{
+	font-family: 'Oswald', sans-serif;
+	font-size:80px ;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+body{
+	background-image: url(MCR1.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+img {
+	width: 100%;
+}
+#PRESS{
+	width: 100%;
+}
+button{
+  width: 100%;
+  background-color: #FFFFFF;
+  font-size: 46px;
+  cursor: pointer;
+}
+dd{
+	font-size: 20px;
+	color: #FFFFFF;
+}
